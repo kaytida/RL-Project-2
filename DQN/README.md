@@ -18,6 +18,8 @@ The DQN algorithm is a reinforcement learning technique used for training agents
 - **Pendulum Dynamics**: The `simulate_pendulum` function simulates the dynamics of the pendulum given the current state and control input (action). It returns the next state of the pendulum based on the dynamics equations.
 
 - **DQN**: The policy network architecture is defined in the `DQN` class. It is a neural network that takes the current state as input and outputs Q-values for each action.
+- 
+![q_net](https://github.com/kaytida/RL-Project-2/assets/72248519/6ec113a7-bfa2-4a66-b8eb-9d8425f904c7)
 
 ## Animation of the Pendulum Swing-up
 
